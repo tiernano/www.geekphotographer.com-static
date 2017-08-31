@@ -2,28 +2,28 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.geekphotographer.com/</loc>
-		<lastmod>2017-08-24T09:24:50+00:00</lastmod>
+		<lastmod>2017-08-31T12:58:11+01:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/nikon-d850-announced/</loc>
-		<lastmod>2017-08-24T00:00:00+00:00</lastmod>
+		<lastmod>2017-08-24T01:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/canon-annouce-6dmkii-sl2/</loc>
-		<lastmod>2017-06-29T00:00:00+00:00</lastmod>
+		<lastmod>2017-06-29T01:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/sony-a9/</loc>
-		<lastmod>2017-04-19T00:00:00+00:00</lastmod>
+		<lastmod>2017-04-19T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
@@ -44,14 +44,14 @@
 	
 	<url>
 		<loc>https://www.geekphotographer.com/newcanonlens-wificard/</loc>
-		<lastmod>2016-08-25T00:00:00+00:00</lastmod>
+		<lastmod>2016-08-25T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/Canon5DMKIV/</loc>
-		<lastmod>2016-08-25T00:00:00+00:00</lastmod>
+		<lastmod>2016-08-25T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
@@ -79,14 +79,14 @@
 	
 	<url>
 		<loc>https://www.geekphotographer.com/new-site-layout/</loc>
-		<lastmod>2015-04-25T00:00:00+00:00</lastmod>
+		<lastmod>2015-04-25T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/lightroom-6-aka-lightroom-cc-released/</loc>
-		<lastmod>2015-04-21T00:00:00+00:00</lastmod>
+		<lastmod>2015-04-21T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
@@ -100,7 +100,7 @@
 	
 	<url>
 		<loc>https://www.geekphotographer.com/canon-announce-7d-mk-ii/</loc>
-		<lastmod>2014-09-18T00:00:00+00:00</lastmod>
+		<lastmod>2014-09-18T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
@@ -128,21 +128,21 @@
 	
 	<url>
 		<loc>https://www.geekphotographer.com/samsung-announce-galaxy-nx-mirror-less-and-galaxy-s4-zoom-both-running-android/</loc>
-		<lastmod>2013-06-21T00:00:00+00:00</lastmod>
+		<lastmod>2013-06-21T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/adobe-sneak-peak-at-raw-processing-on-tablets/</loc>
-		<lastmod>2013-05-03T00:00:00+00:00</lastmod>
+		<lastmod>2013-05-03T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/sigma-confirms-18-35-18/</loc>
-		<lastmod>2013-04-18T00:00:00+00:00</lastmod>
+		<lastmod>2013-04-18T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
@@ -177,28 +177,28 @@
 	
 	<url>
 		<loc>https://www.geekphotographer.com/canon-announce-eos-6d-dslr-and-3-new-powershots/</loc>
-		<lastmod>2012-09-17T00:00:00+00:00</lastmod>
+		<lastmod>2012-09-17T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/sony-announce-new-cameras-including-3-full-frames/</loc>
-		<lastmod>2012-09-12T00:00:00+00:00</lastmod>
+		<lastmod>2012-09-12T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/samsung-and-nikon-announce-android-powered-cameras/</loc>
-		<lastmod>2012-08-30T00:00:00+00:00</lastmod>
+		<lastmod>2012-08-30T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/canon-announce-eos-1d-c-and-c500-4k-cinema-cameras/</loc>
-		<lastmod>2012-04-12T00:00:00+00:00</lastmod>
+		<lastmod>2012-04-12T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
@@ -219,28 +219,28 @@
 	
 	<url>
 		<loc>https://www.geekphotographer.com/canon-eos-1d-x-announced/</loc>
-		<lastmod>2011-10-18T00:00:00+00:00</lastmod>
+		<lastmod>2011-10-18T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/how-to-teather-your-camera-to-your-ipad-without-jailbreaking/</loc>
-		<lastmod>2011-10-05T00:00:00+00:00</lastmod>
+		<lastmod>2011-10-05T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/new-sony-cameras-and-lenses/</loc>
-		<lastmod>2011-08-24T00:00:00+00:00</lastmod>
+		<lastmod>2011-08-24T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/adobe-releases-lightroom-3-5-rc/</loc>
-		<lastmod>2011-08-24T00:00:00+00:00</lastmod>
+		<lastmod>2011-08-24T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
@@ -254,21 +254,21 @@
 	
 	<url>
 		<loc>https://www.geekphotographer.com/lots-of-new-camera-news/</loc>
-		<lastmod>2010-09-26T00:00:00+00:00</lastmod>
+		<lastmod>2010-09-26T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/geekphotographer-reboot/</loc>
-		<lastmod>2010-09-13T00:00:00+00:00</lastmod>
+		<lastmod>2010-09-13T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/shooting-a-whole-fashion-shot-on-an-iphone/</loc>
-		<lastmod>2010-07-10T00:00:00+00:00</lastmod>
+		<lastmod>2010-07-10T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
@@ -331,42 +331,42 @@
 	
 	<url>
 		<loc>https://www.geekphotographer.com/hyperdrive-colorspace-udma-looks-cool-interesting-idea-any-thoughts/</loc>
-		<lastmod>2009-08-06T00:00:00+00:00</lastmod>
+		<lastmod>2009-08-06T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/nikon-d300s-announced-720p24-movie-mode-with-autofocus-and-external-mic-support/</loc>
-		<lastmod>2009-07-30T00:00:00+00:00</lastmod>
+		<lastmod>2009-07-30T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/nikon-d3000-announced/</loc>
-		<lastmod>2009-07-30T00:00:00+00:00</lastmod>
+		<lastmod>2009-07-30T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/leica-s2/</loc>
-		<lastmod>2009-07-30T00:00:00+00:00</lastmod>
+		<lastmod>2009-07-30T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/workflow-v-next-what-should-i-use/</loc>
-		<lastmod>2009-07-26T00:00:00+00:00</lastmod>
+		<lastmod>2009-07-26T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/site-moved-inhouse/</loc>
-		<lastmod>2009-07-21T00:00:00+00:00</lastmod>
+		<lastmod>2009-07-21T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
@@ -443,91 +443,91 @@
 	
 	<url>
 		<loc>https://www.geekphotographer.com/night-photography-tips/</loc>
-		<lastmod>2008-10-03T00:00:00+00:00</lastmod>
+		<lastmod>2008-10-03T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/canon-5d-mark-ii-announced/</loc>
-		<lastmod>2008-09-17T00:00:00+00:00</lastmod>
+		<lastmod>2008-09-17T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/casio-announces-exilim-ex-fh20-a-camera-that-can-shoot-up-to-40fps/</loc>
-		<lastmod>2008-09-16T00:00:00+00:00</lastmod>
+		<lastmod>2008-09-16T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/anandtech-preview-sonys-a900-full-frame-camera/</loc>
-		<lastmod>2008-09-14T00:00:00+00:00</lastmod>
+		<lastmod>2008-09-14T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/official-pics-and-specs-of-a-nikon-d90/</loc>
-		<lastmod>2008-08-25T00:00:00+00:00</lastmod>
+		<lastmod>2008-08-25T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/canons-eos-50d-product-shots-test-photo-leaked-3/</loc>
-		<lastmod>2008-08-24T00:00:00+00:00</lastmod>
+		<lastmod>2008-08-24T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/building-the-sun-or-how-to-build-your-own-light-box/</loc>
-		<lastmod>2008-06-17T00:00:00+00:00</lastmod>
+		<lastmod>2008-06-17T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/timelapse-video-with-a-dslr/</loc>
-		<lastmod>2008-06-07T00:00:00+00:00</lastmod>
+		<lastmod>2008-06-07T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/independence-of-the-seas/</loc>
-		<lastmod>2008-05-05T00:00:00+00:00</lastmod>
+		<lastmod>2008-05-05T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/photography-links-for-april-22nd-2008/</loc>
-		<lastmod>2008-04-22T00:00:00+00:00</lastmod>
+		<lastmod>2008-04-22T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/technology-of-photography/</loc>
-		<lastmod>2008-04-19T00:00:00+00:00</lastmod>
+		<lastmod>2008-04-19T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/adobe-releases-beta-of-lightroom-20/</loc>
-		<lastmod>2008-04-02T00:00:00+00:00</lastmod>
+		<lastmod>2008-04-02T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/how-to-create-hdr-photos-hdrphotomatix-tutorial/</loc>
-		<lastmod>2008-03-31T00:00:00+00:00</lastmod>
+		<lastmod>2008-03-31T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
@@ -632,273 +632,273 @@
 	
 	<url>
 		<loc>https://www.geekphotographer.com/canon-eos-1d-mark-iii-reviewed/</loc>
-		<lastmod>2007-10-15T00:00:00+00:00</lastmod>
+		<lastmod>2007-10-15T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/nikon-d3-gets-previewed/</loc>
-		<lastmod>2007-09-23T00:00:00+00:00</lastmod>
+		<lastmod>2007-09-23T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/canon-40d-early-review-round-up/</loc>
-		<lastmod>2007-09-20T00:00:00+00:00</lastmod>
+		<lastmod>2007-09-20T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/casios-60fps-6mp-cameracamcorder/</loc>
-		<lastmod>2007-08-31T00:00:00+00:00</lastmod>
+		<lastmod>2007-08-31T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/panasonic-lumix-dmc-l10-dslr/</loc>
-		<lastmod>2007-08-30T00:00:00+00:00</lastmod>
+		<lastmod>2007-08-30T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/idea-using-mechanical-turk-for-image-processing-work/</loc>
-		<lastmod>2007-08-24T00:00:00+00:00</lastmod>
+		<lastmod>2007-08-24T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/nikon-to-announce-d3-and-d300-dslrs-tomorrow/</loc>
-		<lastmod>2007-08-22T00:00:00+00:00</lastmod>
+		<lastmod>2007-08-22T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/1ds-mark-iii-and-40d-now-official/</loc>
-		<lastmod>2007-08-20T00:00:00+00:00</lastmod>
+		<lastmod>2007-08-20T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/amazon-outs-canon-1ds-mark-iii-and-canon-40d/</loc>
-		<lastmod>2007-08-19T00:00:00+00:00</lastmod>
+		<lastmod>2007-08-19T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/slideshows-with-aperture-part-2/</loc>
-		<lastmod>2007-08-17T00:00:00+00:00</lastmod>
+		<lastmod>2007-08-17T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/automated-printing-via-photoshop/</loc>
-		<lastmod>2007-08-15T00:00:00+00:00</lastmod>
+		<lastmod>2007-08-15T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/highlight-and-shadow-recovery-in-harsh-light/</loc>
-		<lastmod>2007-08-13T00:00:00+00:00</lastmod>
+		<lastmod>2007-08-13T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/slideshows-with-aperture/</loc>
-		<lastmod>2007-08-10T00:00:00+00:00</lastmod>
+		<lastmod>2007-08-10T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/digital-photography-school-articles/</loc>
-		<lastmod>2007-08-03T00:00:00+00:00</lastmod>
+		<lastmod>2007-08-03T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/canon-40d-2/</loc>
-		<lastmod>2007-08-03T00:00:00+00:00</lastmod>
+		<lastmod>2007-08-03T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/site-move-update/</loc>
-		<lastmod>2007-07-18T00:00:00+00:00</lastmod>
+		<lastmod>2007-07-18T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/do-aperture-users-need-photoshop/</loc>
-		<lastmod>2007-07-18T00:00:00+00:00</lastmod>
+		<lastmod>2007-07-18T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/canon-40d/</loc>
-		<lastmod>2007-07-18T00:00:00+00:00</lastmod>
+		<lastmod>2007-07-18T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/site-move-i-hope/</loc>
-		<lastmod>2007-07-17T00:00:00+00:00</lastmod>
+		<lastmod>2007-07-17T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/mozy-online-backup-easy/</loc>
-		<lastmod>2007-07-03T00:00:00+00:00</lastmod>
+		<lastmod>2007-07-03T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/adobe-lightroom-11-released/</loc>
-		<lastmod>2007-06-27T00:00:00+00:00</lastmod>
+		<lastmod>2007-06-27T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/lots-of-new-hp-point-and-shoot-cameras/</loc>
-		<lastmod>2007-06-21T00:00:00+00:00</lastmod>
+		<lastmod>2007-06-21T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/video-photo-tourism-exploring-photo-collections-in-3d-2006/</loc>
-		<lastmod>2007-06-14T00:00:00+00:00</lastmod>
+		<lastmod>2007-06-14T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/gigapixel-photos/</loc>
-		<lastmod>2007-06-05T00:00:00+00:00</lastmod>
+		<lastmod>2007-06-05T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/custom-photography-laptop-case/</loc>
-		<lastmod>2007-05-23T00:00:00+00:00</lastmod>
+		<lastmod>2007-05-23T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/what-does-cs3-mean-for-aperture-users/</loc>
-		<lastmod>2007-05-18T00:00:00+00:00</lastmod>
+		<lastmod>2007-05-18T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/drobo-worlds-first-storage-robot/</loc>
-		<lastmod>2007-05-08T00:00:00+00:00</lastmod>
+		<lastmod>2007-05-08T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/looking-for-an-aperture-solution/</loc>
-		<lastmod>2007-04-28T00:00:00+00:00</lastmod>
+		<lastmod>2007-04-28T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/tethered-workflow-in-aperture/</loc>
-		<lastmod>2007-04-26T00:00:00+00:00</lastmod>
+		<lastmod>2007-04-26T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/100th-post/</loc>
-		<lastmod>2007-04-26T00:00:00+00:00</lastmod>
+		<lastmod>2007-04-26T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/first-look-at-the-canon-1d-mark-iii/</loc>
-		<lastmod>2007-04-25T00:00:00+00:00</lastmod>
+		<lastmod>2007-04-25T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/what-is-a-fast-lens/</loc>
-		<lastmod>2007-04-17T00:00:00+00:00</lastmod>
+		<lastmod>2007-04-17T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/kodak-the-winds-of-change/</loc>
-		<lastmod>2007-04-11T00:00:00+00:00</lastmod>
+		<lastmod>2007-04-11T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/raw-workflow-a-pros-approach/</loc>
-		<lastmod>2007-04-06T00:00:00+00:00</lastmod>
+		<lastmod>2007-04-06T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/learn-better-photography-with-kris-krug/</loc>
-		<lastmod>2007-04-05T00:00:00+00:00</lastmod>
+		<lastmod>2007-04-05T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/aperture-video-tutorial/</loc>
-		<lastmod>2007-04-05T00:00:00+00:00</lastmod>
+		<lastmod>2007-04-05T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/smugmug/</loc>
-		<lastmod>2007-04-03T00:00:00+00:00</lastmod>
+		<lastmod>2007-04-03T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/phanfare/</loc>
-		<lastmod>2007-03-29T00:00:00+00:00</lastmod>
+		<lastmod>2007-03-29T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/aperture-users-profesional-network/</loc>
-		<lastmod>2007-03-28T00:00:00+00:00</lastmod>
+		<lastmod>2007-03-28T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
@@ -1038,497 +1038,497 @@
 	
 	<url>
 		<loc>https://www.geekphotographer.com/geotagger-works-with-most-cameras/</loc>
-		<lastmod>2006-09-27T00:00:00+00:00</lastmod>
+		<lastmod>2006-09-27T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/more-new-cameras-from-photokina/</loc>
-		<lastmod>2006-09-26T00:00:00+00:00</lastmod>
+		<lastmod>2006-09-26T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/photokina-releases-for-monday/</loc>
-		<lastmod>2006-09-25T00:00:00+00:00</lastmod>
+		<lastmod>2006-09-25T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/fixing-haze-in-digital-photos-and-more/</loc>
-		<lastmod>2006-09-25T00:00:00+00:00</lastmod>
+		<lastmod>2006-09-25T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/canon-release-new-digital-media-storage-devices/</loc>
-		<lastmod>2006-09-25T00:00:00+00:00</lastmod>
+		<lastmod>2006-09-25T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/apples-photokina-event-started/</loc>
-		<lastmod>2006-09-25T00:00:00+00:00</lastmod>
+		<lastmod>2006-09-25T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/adobe-releases-beta-4-of-lightroom/</loc>
-		<lastmod>2006-09-25T00:00:00+00:00</lastmod>
+		<lastmod>2006-09-25T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/photographing-moving-objects/</loc>
-		<lastmod>2006-09-12T00:00:00+00:00</lastmod>
+		<lastmod>2006-09-12T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/building-the-ultimate-aperture-workstation/</loc>
-		<lastmod>2006-09-06T00:00:00+00:00</lastmod>
+		<lastmod>2006-09-06T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/lots-of-photography-tips-and-techniques/</loc>
-		<lastmod>2006-09-04T00:00:00+00:00</lastmod>
+		<lastmod>2006-09-04T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/aperture-2-wish-list/</loc>
-		<lastmod>2006-08-31T00:00:00+00:00</lastmod>
+		<lastmod>2006-08-31T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/review-of-the-canon-400d/</loc>
-		<lastmod>2006-08-30T00:00:00+00:00</lastmod>
+		<lastmod>2006-08-30T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/raw-vs-jpeg/</loc>
-		<lastmod>2006-08-25T00:00:00+00:00</lastmod>
+		<lastmod>2006-08-25T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/canon-400d-is-real/</loc>
-		<lastmod>2006-08-24T00:00:00+00:00</lastmod>
+		<lastmod>2006-08-24T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/canon-400d/</loc>
-		<lastmod>2006-08-23T00:00:00+00:00</lastmod>
+		<lastmod>2006-08-23T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/new-logos-what-do-you-think/</loc>
-		<lastmod>2006-08-16T00:00:00+00:00</lastmod>
+		<lastmod>2006-08-16T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/war-photographers-google-video/</loc>
-		<lastmod>2006-08-14T00:00:00+00:00</lastmod>
+		<lastmod>2006-08-14T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/nikon-d80-released/</loc>
-		<lastmod>2006-08-09T00:00:00+00:00</lastmod>
+		<lastmod>2006-08-09T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/fujifilm-s3-pro-uvir-dslr-can-see-in-the-dark/</loc>
-		<lastmod>2006-08-09T00:00:00+00:00</lastmod>
+		<lastmod>2006-08-09T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/canon-370d-appears-in-china/</loc>
-		<lastmod>2006-08-09T00:00:00+00:00</lastmod>
+		<lastmod>2006-08-09T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/large-collection-of-high-speed-photos-site-update-news/</loc>
-		<lastmod>2006-08-08T00:00:00+00:00</lastmod>
+		<lastmod>2006-08-08T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/a-photo-a-day-for-the-last-3-years/</loc>
-		<lastmod>2006-08-08T00:00:00+00:00</lastmod>
+		<lastmod>2006-08-08T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/color-photos-from-the-world-war-1-era/</loc>
-		<lastmod>2006-08-01T00:00:00+00:00</lastmod>
+		<lastmod>2006-08-01T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/a-day-in-the-life-of-a-profesional-photographer/</loc>
-		<lastmod>2006-07-29T00:00:00+00:00</lastmod>
+		<lastmod>2006-07-29T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/photo-story-antarctica-expedition/</loc>
-		<lastmod>2006-07-26T00:00:00+00:00</lastmod>
+		<lastmod>2006-07-26T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/little-syncr/</loc>
-		<lastmod>2006-07-24T00:00:00+00:00</lastmod>
+		<lastmod>2006-07-24T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/how-to-ziploc-your-camera/</loc>
-		<lastmod>2006-07-24T00:00:00+00:00</lastmod>
+		<lastmod>2006-07-24T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/adobe-lightroom-impressions-so-far/</loc>
-		<lastmod>2006-07-19T00:00:00+00:00</lastmod>
+		<lastmod>2006-07-19T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/adobe-lightroom-for-windows-has-arrived/</loc>
-		<lastmod>2006-07-19T00:00:00+00:00</lastmod>
+		<lastmod>2006-07-19T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/iso-settings-in-digital-photography/</loc>
-		<lastmod>2006-07-17T00:00:00+00:00</lastmod>
+		<lastmod>2006-07-17T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/how-to-diy-10-macro-photography-studio/</loc>
-		<lastmod>2006-07-12T00:00:00+00:00</lastmod>
+		<lastmod>2006-07-12T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/13-tips-on-improving-camera-phone-photos/</loc>
-		<lastmod>2006-07-12T00:00:00+00:00</lastmod>
+		<lastmod>2006-07-12T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/updates-to-this-blog-via-email/</loc>
-		<lastmod>2006-07-11T00:00:00+00:00</lastmod>
+		<lastmod>2006-07-11T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/rebuilding-your-aperture-photo-library/</loc>
-		<lastmod>2006-07-10T00:00:00+00:00</lastmod>
+		<lastmod>2006-07-10T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/new-domain-new-server/</loc>
-		<lastmod>2006-07-10T00:00:00+00:00</lastmod>
+		<lastmod>2006-07-10T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/taking-control-over-depth-of-field/</loc>
-		<lastmod>2006-07-07T00:00:00+00:00</lastmod>
+		<lastmod>2006-07-07T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/advanced-red-eye-and-retouch-tools-in-iphoto-6/</loc>
-		<lastmod>2006-07-07T00:00:00+00:00</lastmod>
+		<lastmod>2006-07-07T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/a-couple-of-interesting-galeries-i-want-to-post/</loc>
-		<lastmod>2006-07-05T00:00:00+00:00</lastmod>
+		<lastmod>2006-07-05T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/i-think-i-just-found-one-of-the-best-uses-for-my-ipod/</loc>
-		<lastmod>2006-07-03T00:00:00+00:00</lastmod>
+		<lastmod>2006-07-03T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/photoshop-tips-and-tricks/</loc>
-		<lastmod>2006-06-30T00:00:00+00:00</lastmod>
+		<lastmod>2006-06-30T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/lightning-photography/</loc>
-		<lastmod>2006-06-30T00:00:00+00:00</lastmod>
+		<lastmod>2006-06-30T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/droping-your-camera-is-not-a-good-thing/</loc>
-		<lastmod>2006-06-30T00:00:00+00:00</lastmod>
+		<lastmod>2006-06-30T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/microsoft-icons-of-photography-and-digital-photography-sitew/</loc>
-		<lastmod>2006-06-29T00:00:00+00:00</lastmod>
+		<lastmod>2006-06-29T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/how-to-photograph-fireworks/</loc>
-		<lastmod>2006-06-27T00:00:00+00:00</lastmod>
+		<lastmod>2006-06-27T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/factors-to-concider-when-buying-a-dslr-lens/</loc>
-		<lastmod>2006-06-26T00:00:00+00:00</lastmod>
+		<lastmod>2006-06-26T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/digital-camera-reviews-over-at-the-digital-photography-blog/</loc>
-		<lastmod>2006-06-26T00:00:00+00:00</lastmod>
+		<lastmod>2006-06-26T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/your-rights-as-a-photographer/</loc>
-		<lastmod>2006-06-25T00:00:00+00:00</lastmod>
+		<lastmod>2006-06-25T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/free-aperture-seminar/</loc>
-		<lastmod>2006-06-25T00:00:00+00:00</lastmod>
+		<lastmod>2006-06-25T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/an-introduction-to-different-types-of-dslr-lenses/</loc>
-		<lastmod>2006-06-25T00:00:00+00:00</lastmod>
+		<lastmod>2006-06-25T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/photographing-urban-landscapes/</loc>
-		<lastmod>2006-06-22T00:00:00+00:00</lastmod>
+		<lastmod>2006-06-22T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/online-photo-galeries/</loc>
-		<lastmod>2006-06-22T00:00:00+00:00</lastmod>
+		<lastmod>2006-06-22T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/how-to-airbrish-your-photos-in-photoshop/</loc>
-		<lastmod>2006-06-21T00:00:00+00:00</lastmod>
+		<lastmod>2006-06-21T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/good-tutorials-photoshop/</loc>
-		<lastmod>2006-06-21T00:00:00+00:00</lastmod>
+		<lastmod>2006-06-21T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/aperture-112-released/</loc>
-		<lastmod>2006-06-21T00:00:00+00:00</lastmod>
+		<lastmod>2006-06-21T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/take-great-group-photos/</loc>
-		<lastmod>2006-06-20T00:00:00+00:00</lastmod>
+		<lastmod>2006-06-20T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/digital-imaging-in-windows-vista/</loc>
-		<lastmod>2006-06-17T00:00:00+00:00</lastmod>
+		<lastmod>2006-06-17T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/uisng-the-channel-mixer-in-photoshop-to-make-black-and-whites/</loc>
-		<lastmod>2006-06-15T00:00:00+00:00</lastmod>
+		<lastmod>2006-06-15T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/tilt-shift-pc-lens/</loc>
-		<lastmod>2006-06-15T00:00:00+00:00</lastmod>
+		<lastmod>2006-06-15T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/ebooks-on-photography/</loc>
-		<lastmod>2006-06-15T00:00:00+00:00</lastmod>
+		<lastmod>2006-06-15T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/11-super-wide-angle-digital-camera/</loc>
-		<lastmod>2006-06-15T00:00:00+00:00</lastmod>
+		<lastmod>2006-06-15T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/older-posts-from-my-main-blog/</loc>
-		<lastmod>2006-06-13T00:00:00+00:00</lastmod>
+		<lastmod>2006-06-13T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/a-better-aperture-web-galery/</loc>
-		<lastmod>2006-06-12T00:00:00+00:00</lastmod>
+		<lastmod>2006-06-12T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/how-to-keep-your-sensor-clean/</loc>
-		<lastmod>2006-06-11T00:00:00+00:00</lastmod>
+		<lastmod>2006-06-11T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/sonys-new-dslr/</loc>
-		<lastmod>2006-06-05T00:00:00+00:00</lastmod>
+		<lastmod>2006-06-05T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/shooting-fast-the-rule-of-numbers/</loc>
-		<lastmod>2006-05-31T00:00:00+00:00</lastmod>
+		<lastmod>2006-05-31T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/howto-hold-your-digital-camera/</loc>
-		<lastmod>2006-05-30T00:00:00+00:00</lastmod>
+		<lastmod>2006-05-30T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/how-concert-photographers-work/</loc>
-		<lastmod>2006-05-30T00:00:00+00:00</lastmod>
+		<lastmod>2006-05-30T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/how-to-make-great-photographs/</loc>
-		<lastmod>2006-05-29T00:00:00+00:00</lastmod>
+		<lastmod>2006-05-29T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/tip-getting-the-natural-smile-in-your-photos/</loc>
-		<lastmod>2006-05-26T00:00:00+00:00</lastmod>
+		<lastmod>2006-05-26T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/canon-potentially-leaving-the-film-camera-business/</loc>
-		<lastmod>2006-05-25T00:00:00+00:00</lastmod>
+		<lastmod>2006-05-25T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
 		<loc>https://www.geekphotographer.com/welcome-to-my-photography-blog/</loc>
-		<lastmod>2006-05-11T00:00:00+00:00</lastmod>
+		<lastmod>2006-05-11T00:00:00+01:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
