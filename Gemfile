@@ -1,6 +1,0 @@
-source 'https://rubygems.org'
-gem 'json', '1.8.3'
-gem 'github-pages'
-gem 's3_website'
-gem 'jekyll-seo-tag'
-gem 'redcarpet'
