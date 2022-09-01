@@ -5,66 +5,189 @@
     <description>Geek + Photos</description>
     <link>https://www.geekphotographer.com/</link>
     <atom:link href="https://www.geekphotographer.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 05 Sep 2018 15:44:59 +0100</pubDate>
-    <lastBuildDate>Wed, 05 Sep 2018 15:44:59 +0100</lastBuildDate>
-    <generator>Jekyll v3.8.3</generator>
+    <pubDate>Thu, 01 Sep 2022 03:14:04 -0500</pubDate>
+    <lastBuildDate>Thu, 01 Sep 2022 03:14:04 -0500</lastBuildDate>
+    <generator>Jekyll v3.9.2</generator>
+    
+      
+      <item>
+        <title>Filmic Pro first Cinema Camera App to support Camera to Cloud on Frame.IO</title>
+        <description>&lt;p&gt;Filmic Pro, the Cinema grade &lt;a href=&quot;https://geni.us/CQ1d&quot;&gt;App for iPhone&lt;/a&gt; and &lt;a href=&quot;https://geni.us/URGH&quot;&gt;Android &lt;/a&gt;now has the ability to upload Proxy videos to &lt;a href=&quot;https://geni.us/5Az5M&quot;&gt;Frame.IO&lt;/a&gt;. Frame.IO has also added a load of new features, like an app for the Apple TV, Camera to Cloud for all their (paid by the looks of things…) customers, and a load of other new features. &lt;a href=&quot;https://frame.io/whats-new&quot;&gt;More details on their site here&lt;/a&gt;. And yes, I know its been a while… Hopefully posts will continue soon…&lt;/p&gt;
+</description>
+        
+          <description>&lt;p&gt;Filmic Pro, the Cinema grade &lt;a href=&quot;https://geni.us/CQ1d&quot;&gt;App for iPhone&lt;/a&gt; and &lt;a href=&quot;https://geni.us/URGH&quot;&gt;Android &lt;/a&gt;now has the ability to upload Proxy videos to &lt;a href=&quot;https://geni.us/5Az5M&quot;&gt;Frame.IO&lt;/a&gt;. Frame.IO has also added a load of new features, like an app for the Apple TV, Camera to Cloud for all their (paid by the looks of things…) customers, and a load of other new features. &lt;a href=&quot;https://frame.io/whats-new&quot;&gt;More details on their site here&lt;/a&gt;. And yes, I know its been a while… Hopefully posts will continue soon…&lt;/p&gt;
+</description>
+        
+        <pubDate>Thu, 21 Apr 2022 20:03:00 -0500</pubDate>
+        <link>https://www.geekphotographer.com/filmic-pro-first-cinema-camera-app-to-support-camera-to-cloud-on-frame.io/</link>
+        <guid isPermaLink="true">https://www.geekphotographer.com/filmic-pro-first-cinema-camera-app-to-support-camera-to-cloud-on-frame.io/</guid>
+        
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Canon announce EOS 5R: Mirrorless, 8k Video DSLR</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/wp-content/uploads/r5_feat-copy-800x420.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Canon has announced that they are developing the new new mirrorless DSLR, more advanced than the current Canon EOS R. Some things are known:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Will be able to shoot 8k video&lt;/li&gt;
+  &lt;li&gt;In-body image stabilization&lt;/li&gt;
+  &lt;li&gt;2 card slots&lt;/li&gt;
+  &lt;li&gt;20fps (electronic shutter), 12fps mechanical&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Some things are not known, like if its full frame, what those card slots actually are, Wifi, release date and price, but it sounds interesting. More links to other sites below:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://petapixel.com/2020/02/12/canon-announces-development-of-the-eos-r5-with-ibis-8k-video-and-more/&quot;&gt;Canon Announces Development of the EOS R5 with IBIS, 8K Video and More (Petapixel&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.engadget.com/2020/02/13/canon-eos-r5-camera-8k-video-stabillization/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+weblogsinc%2Fengadget+%28Engadget%29&quot;&gt;Canon’s powerhouse EOS R5 will be its first mirrorless camera with 8K video (Engadget&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fstoppers.com/gear/canon-gets-serious-about-mirrorless-cameras-highly-powerful-r5-456102?utm_source=FS_RSS&amp;amp;utm_medium=RSS&amp;amp;utm_campaign=Main_RSS&quot;&gt;Canon Gets Serious About Mirrorless Cameras With the Highly Powerful R5 (FStoppers&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://global.canon/en/news/2020/20200213.html&quot;&gt;Canon announces development of the EOS R5 next-generation full-frame mirrorless camera and new RF series lenses (Canon&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        
+          <description>&lt;p&gt;&lt;img src=&quot;/wp-content/uploads/r5_feat-copy-800x420.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 13 Feb 2020 02:49:19 -0600</pubDate>
+        <link>https://www.geekphotographer.com/canon-announce-eos-5r-mirrorless-8k-video-dslr/</link>
+        <guid isPermaLink="true">https://www.geekphotographer.com/canon-announce-eos-5r-mirrorless-8k-video-dslr/</guid>
+        
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Testing Netlify CMS</title>
+        <description>&lt;p&gt;You can ignore this post, since its mostly for testing… If it works, it might allow me to post more often…&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.netlifycms.org/&quot;&gt;&lt;img src=&quot;/wp-content/uploads/netlify-cms.PNG&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        
+          <description>&lt;p&gt;You can ignore this post, since its mostly for testing… If it works, it might allow me to post more often…&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Fri, 07 Feb 2020 01:56:45 -0600</pubDate>
+        <link>https://www.geekphotographer.com/testing-netlify-cms/</link>
+        <guid isPermaLink="true">https://www.geekphotographer.com/testing-netlify-cms/</guid>
+        
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Sony announces the A7r IV - 61MP Full frame mirrorless camera</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://images.tiernanotoole.net/image/?inputImage=v1563357409/Screen-Shot-2019-07-16-at-10.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Sony yesterday (16 July 2019) announced a new Full Frame Mirror less camera, the A7R IV. Some quick specs i have found so far:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;61 MP (worlds first, supposedly…)&lt;/li&gt;
+  &lt;li&gt;10 FPS&lt;/li&gt;
+  &lt;li&gt;15 stops Dynamic Range&lt;/li&gt;
+  &lt;li&gt;240 MP option with something called “sensor-shift multi-shot mode”…&lt;/li&gt;
+  &lt;li&gt;567 phase-detection AF points covering 74% of the image area&lt;/li&gt;
+  &lt;li&gt;Full 4K video with real time eye tracking&lt;/li&gt;
+  &lt;li&gt;USB C, WiFi and Dual UHS-II (SD) Cards&lt;/li&gt;
+  &lt;li&gt;$3500 available for preorder on &lt;a href=&quot;https://www.bhphotovideo.com/c/product/1494679-REG/sony_ilce7rm4_b_alpha_a7r_iv_mirrorless.html&quot;&gt;B&amp;amp;H&lt;/a&gt; and &lt;a href=&quot;https://www.adorama.com/isoa7r4.html&quot;&gt;Adorama&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://images.tiernanotoole.net/image/?inputImage=v1563358116/Screen-Shot-2019-07-16-at-10_1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;More links:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sony.ie/electronics/interchangeable-lens-cameras/ilce-7rm4&quot;&gt;Sony Official Page&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://petapixel.com/2019/07/16/sony-unveils-a7r-iv-the-worlds-first-61mp-full-frame-camera/&quot;&gt;PetaPixel Coverage&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://petapixel.com/2019/07/16/sony-a7r-iv-first-impressions-and-real-world-photos/&quot;&gt;PetaPixel Hands on and Photos&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sony.net/Products/di_photo-gallery/camera/ILCE-7RM4/?select=camera&amp;amp;body=ilc&amp;amp;mount=E-mount&amp;amp;system=35mmFullFrame&quot;&gt;Sony’s Photo Gallery&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.engadget.com/2019/07/16/sony-a7r-iv-61-megapixels-hands-on/&quot;&gt;Engadget Hands on&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.engadget.com/2019/07/16/sonys-a7r-mark-iv-packs-a-61-megapixel-sensor/&quot;&gt;Engadget Coverage&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fstoppers.com/originals/sony-announces-new-alpha-7r-iv-proper-rival-medium-format-390369&quot;&gt;FStoppers Coverage&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        
+          <description>&lt;p&gt;&lt;img src=&quot;https://images.tiernanotoole.net/image/?inputImage=v1563357409/Screen-Shot-2019-07-16-at-10.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 16 Jul 2019 19:00:00 -0500</pubDate>
+        <link>https://www.geekphotographer.com/sony-a7riv/</link>
+        <guid isPermaLink="true">https://www.geekphotographer.com/sony-a7riv/</guid>
+        
+        
+        <category>announcements</category>
+        
+        <category>sony</category>
+        
+        <category>hardware</category>
+        
+      </item>
+      
     
       
       <item>
         <title>Canon Announce EOS-R Full frame mirror less Camera</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://images.tiernanotoole.net/image/?inputImage=geekphotographer/cam2-750x600.jpg&quot; alt=&quot;EOS-R Front view&quot;&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;https://images.tiernanotoole.net/image/?inputImage=geekphotographer/cam2-750x600.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Canon has just &lt;a href=&quot;https://www.usa.canon.com/internet/portal/us/home/about/newsroom/press-releases/press-release-details/2018/20180905-system/20180905-system&quot;&gt;Annoucned the new Canon EOS-R system&lt;/a&gt;, its first full frame mirrorless camera. Some details of what i have found so far from reading the links below:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Seems to be compatible with All Canon EF, EF-S, TS-E and MP-E lenses &amp;quot;through the use of mount adapters&amp;quot;.&lt;/li&gt;
-&lt;li&gt;lots of accessories listed in the PetaPixel link&lt;/li&gt;
-&lt;li&gt;lenses announced include: RF 35mm f/1.8 IS Macro STM, RF 50mm f/1.2L USM, RF 24-105mm f/4L IS USM and RF 28-70mm f/2L USM&lt;/li&gt;
+  &lt;li&gt;Seems to be compatible with All Canon EF, EF-S, TS-E and MP-E lenses “through the use of mount adapters”.&lt;/li&gt;
+  &lt;li&gt;lots of accessories listed in the PetaPixel link&lt;/li&gt;
+  &lt;li&gt;lenses announced include: RF 35mm f/1.8 IS Macro STM, RF 50mm f/1.2L USM, RF 24-105mm f/4L IS USM and RF 28-70mm f/2L USM&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Spec wise:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;30.3-megapixel full-frame CMOS&lt;/li&gt;
-&lt;li&gt;ISO of 100-40000 (expandable to 50-102400)&lt;/li&gt;
-&lt;li&gt;DIGIC 8 image processor&lt;/li&gt;
-&lt;li&gt;SD/SDHC/SDXC cards&lt;/li&gt;
-&lt;li&gt;Wifi and BluTooth&lt;/li&gt;
-&lt;li&gt;8fps continuous shooting speed&lt;/li&gt;
-&lt;li&gt;bursts of up to 100 max-quality JPEGs, 47 RAW, or 78 C-RAW&lt;/li&gt;
-&lt;li&gt;a shutter lag is as short as 50 milliseconds&lt;/li&gt;
-&lt;li&gt;startup time of 0.9 seconds&lt;/li&gt;
-&lt;li&gt;maximum of 5,655 AF points&lt;/li&gt;
-&lt;li&gt;Video: 4K at 30fps / 1080p at 60fps with Canon Log, 10bit 4:2:2 HDMI output&lt;/li&gt;
+  &lt;li&gt;30.3-megapixel full-frame CMOS&lt;/li&gt;
+  &lt;li&gt;ISO of 100-40000 (expandable to 50-102400)&lt;/li&gt;
+  &lt;li&gt;DIGIC 8 image processor&lt;/li&gt;
+  &lt;li&gt;SD/SDHC/SDXC cards&lt;/li&gt;
+  &lt;li&gt;Wifi and BluTooth&lt;/li&gt;
+  &lt;li&gt;8fps continuous shooting speed&lt;/li&gt;
+  &lt;li&gt;bursts of up to 100 max-quality JPEGs, 47 RAW, or 78 C-RAW&lt;/li&gt;
+  &lt;li&gt;a shutter lag is as short as 50 milliseconds&lt;/li&gt;
+  &lt;li&gt;startup time of 0.9 seconds&lt;/li&gt;
+  &lt;li&gt;maximum of 5,655 AF points&lt;/li&gt;
+  &lt;li&gt;Video: 4K at 30fps / 1080p at 60fps with Canon Log, 10bit 4:2:2 HDMI output&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Its availabe in October for $2299 Body only, or $3399 with the 24-105mm lense.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://images.tiernanotoole.net/image/?inputImage=geekphotographer/cam1-750x600.jpg&quot; alt=&quot;EOS-R Top View&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://images.tiernanotoole.net/image/?inputImage=geekphotographer/cam1-750x600.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;more links:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://petapixel.com/2018/09/05/canon-unveils-the-eos-r-its-first-full-frame-mirrorless-camera/&quot;&gt;Canon Unveils the EOS R, Its First Full-Frame Mirrorless Camera&lt;/a&gt; (Petapixel)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://scottkelby.com/breaking-news-canon-announces-new-full-frame-mirrorless-the-eos-r/&quot;&gt;BREAKING NEWS: CANON ANNOUNCES NEW FULL FRAME MIRRORLESS: THE EOS R&lt;/a&gt; (Scott Kelby)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://fstoppers.com/gear/canon-announces-canon-eos-r-canons-first-full-frame-mirrorless-camera-286035?utm_source=FS_RSS&amp;utm_medium=RSS&amp;utm_campaign=Main_RSS&quot;&gt;Canon Announces the Canon EOS R: Canon’s First Full-Frame Mirrorless Camera&lt;/a&gt; (FStoppers)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.engadget.com/2018/09/05/canon-eos-r-full-frame-mirrorless-camera/&quot;&gt;Everything you need to know about Canon’s EOS R mirrorless camera&lt;/a&gt; (Engadget)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://petapixel.com/2018/09/05/canon-unveils-the-eos-r-its-first-full-frame-mirrorless-camera/&quot;&gt;Canon Unveils the EOS R, Its First Full-Frame Mirrorless Camera&lt;/a&gt; (Petapixel)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://scottkelby.com/breaking-news-canon-announces-new-full-frame-mirrorless-the-eos-r/&quot;&gt;BREAKING NEWS: CANON ANNOUNCES NEW FULL FRAME MIRRORLESS: THE EOS R&lt;/a&gt; (Scott Kelby)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         
-          <description>&lt;p&gt;&lt;img src=&quot;https://images.tiernanotoole.net/image/?inputImage=geekphotographer/cam2-750x600.jpg&quot; alt=&quot;EOS-R Front view&quot;&gt;&lt;/p&gt;
+          <description>&lt;p&gt;&lt;img src=&quot;https://images.tiernanotoole.net/image/?inputImage=geekphotographer/cam2-750x600.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
 </description>
         
-        <pubDate>Wed, 05 Sep 2018 01:00:00 +0100</pubDate>
+        <pubDate>Tue, 04 Sep 2018 19:00:00 -0500</pubDate>
         <link>https://www.geekphotographer.com/canon-announce-eos-r-full-frame-mirror-less-camera/</link>
         <guid isPermaLink="true">https://www.geekphotographer.com/canon-announce-eos-r-full-frame-mirror-less-camera/</guid>
         
         
+        <category>canon</category>
+        
         <category>announcements</category>
         
-        <category>Hardware</category>
-        
-        <category>Cameras</category>
+        <category>hardware</category>
         
       </item>
       
@@ -72,13 +195,13 @@
       
       <item>
         <title>Adobe announce Lightroom CC Classic, Lightroom CC</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/lightroom-cc.PNG&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/lightroom-cc.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;I have been an Adobe Lightroom user for, well, many a year. I bought a few boxes and download editions (I still have a box of Lightroom 3 here on my desk!) and when CC and the &amp;quot;cloud&amp;quot; editions came out, i bought the Photography bundle, and have been using that since. Over the years, they have added many features, including mobile apps for iOS and Android, but performance on the desktop has, in some cases, suffered...&lt;/p&gt;
+&lt;p&gt;I have been an Adobe Lightroom user for, well, many a year. I bought a few boxes and download editions (I still have a box of Lightroom 3 here on my desk!) and when CC and the “cloud” editions came out, i bought the Photography bundle, and have been using that since. Over the years, they have added many features, including mobile apps for iOS and Android, but performance on the desktop has, in some cases, suffered…&lt;/p&gt;
 
-&lt;p&gt;Well, today, Adobe have announced not 1, but 2 new versions of Lightroom: Lightroom CC Classic and Lightroom CC..... and to make things easier to figure out, Im going to refer to them as CC and Classic... just make life easier...&lt;/p&gt;
+&lt;p&gt;Well, today, Adobe have announced not 1, but 2 new versions of Lightroom: Lightroom CC Classic and Lightroom CC….. and to make things easier to figure out, Im going to refer to them as CC and Classic… just make life easier…&lt;/p&gt;
 
-&lt;p&gt;So, First things first: Boxed and perpetual editions of Lightroom are, well, on life support. Adobe will release some updates to the current perpetual edition (Lightroom 6) but there will be no perpetual version of either CC or Classic. So, moving to the monthly option is your only option. &lt;a href=&quot;http://www.adobe.com/creativecloud/photography.html&quot;&gt;The Photography plan&lt;/a&gt; still exits: $9.99 per month with Classic, CC and Photoshop, plus 20Gb storage (more on that later) or an extra $10 a month gets you 1Tb storage. The alternative, if you need the rest of the Adobe suite is the &lt;a href=&quot;https://www.adobe.com/ie/creativecloud/plans.html&quot;&gt;full plan&lt;/a&gt;, but i wont go into details here...&lt;/p&gt;
+&lt;p&gt;So, First things first: Boxed and perpetual editions of Lightroom are, well, on life support. Adobe will release some updates to the current perpetual edition (Lightroom 6) but there will be no perpetual version of either CC or Classic. So, moving to the monthly option is your only option. &lt;a href=&quot;http://www.adobe.com/creativecloud/photography.html&quot;&gt;The Photography plan&lt;/a&gt; still exits: $9.99 per month with Classic, CC and Photoshop, plus 20Gb storage (more on that later) or an extra $10 a month gets you 1Tb storage. The alternative, if you need the rest of the Adobe suite is the &lt;a href=&quot;https://www.adobe.com/ie/creativecloud/plans.html&quot;&gt;full plan&lt;/a&gt;, but i wont go into details here…&lt;/p&gt;
 
 &lt;p&gt;Right, so CC and Classic. Whats the difference? Essentially, Classic is existing Lightroom desktop (Mac and Windows), updated and made faster and more powerful. I have not had a chance to play with it yet, but there are some reviews and more details below from other photography sites. I will add my 2c when i get around to playing with it.&lt;/p&gt;
 
@@ -86,9 +209,9 @@
 
 &lt;p&gt;I mentioned above about storage and how much you get with the plan. Well, this is important for both CC and Classic. Both, like the existing Lightroom CC 2015 and Lightroom Mobile, sync with the cloud. But while CC 2015 syncs a Smart Preview (from what i can gather, its a DNG type file) new CC syncs the entire RAW image. Depending on the app you are editing on you may still use the DNG (probably phones and smaller tables) but if you are on a larger device (might be a setting somewhere) you get the full RAW from your camera. Essentially, plug your memory card into your PC, open CC, download images, they get uploaded to the Cloud. You can then edit on your PC, your Phone, your tablet, or anywhere!&lt;/p&gt;
 
-&lt;p&gt;Now, CC will allow you to sync the full RAW image, but Classic only does the smart preview images. Classic will, however, download the full RAWs.... weather classic will get an update to allow it to upload full is unknown.&lt;/p&gt;
+&lt;p&gt;Now, CC will allow you to sync the full RAW image, but Classic only does the smart preview images. Classic will, however, download the full RAWs…. weather classic will get an update to allow it to upload full is unknown.&lt;/p&gt;
 
-&lt;p&gt;So, there you have it. There was an update to Photoshop too... full disclosure: I have it installed on my machine (not the new one, current version) but i have no idea how to use it, so i dont... the links below include some details on the Photoshop update.&lt;/p&gt;
+&lt;p&gt;So, there you have it. There was an update to Photoshop too… full disclosure: I have it installed on my machine (not the new one, current version) but i have no idea how to use it, so i dont… the links below include some details on the Photoshop update.&lt;/p&gt;
 
 &lt;iframe width=&quot;100%&quot; height=&quot;auto&quot; src=&quot;https://www.youtube.com/embed/eDhzGtwNCGg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; async=&quot;&quot; preload=&quot;&quot;&gt;&lt;/iframe&gt;
 
@@ -101,12 +224,14 @@
 &lt;p&gt;&lt;a href=&quot;https://fstoppers.com/apps/adobe-lightroom-classic-cc-really-faster-200058&quot;&gt;Is Adobe Lightroom Classic CC Really Faster? (FStoppers)&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://lightroomkillertips.com/new-lightroom-whole-new-ecosystem/&quot;&gt;A New Lightroom is Here (and with it a whole new Ecosystem) (Lightroom Killer Tips)&lt;/a&gt;&lt;/p&gt;
+
 </description>
         
-          <description>&lt;p&gt;&lt;img src=&quot;https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/lightroom-cc.PNG&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+          <description>&lt;p&gt;&lt;img src=&quot;https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/lightroom-cc.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
 </description>
         
-        <pubDate>Wed, 18 Oct 2017 01:00:00 +0100</pubDate>
+        <pubDate>Tue, 17 Oct 2017 19:00:00 -0500</pubDate>
         <link>https://www.geekphotographer.com/adobe-announce-lightroom-cc-classic-lightroom-cc/</link>
         <guid isPermaLink="true">https://www.geekphotographer.com/adobe-announce-lightroom-cc-classic-lightroom-cc/</guid>
         
@@ -123,40 +248,57 @@
       
       <item>
         <title>Nikon D850 announced</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/nikond850feat-1.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/nikond850feat-1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;So, as you probably know, i am a Canon Guy... I have had a good few since i started shooting, and well, i am happy with them. My main shooter is currently a 5Ds, and i have a &lt;a href=&quot;https://www.geekphotographer.com/5d-mkii-review-round-up/&quot;&gt;5D MK II&lt;/a&gt; as a backup and a plan of possibly getting a &lt;a href=&quot;https://www.geekphotographer.com/Canon5DMKIV/&quot;&gt;5D MK IV&lt;/a&gt; soon... Anyway, that being said, Nikon have announced their latest camera, the D850, and, well, after reading the sepecs, it sounds interesting...&lt;/p&gt;
+&lt;p&gt;So, as you probably know, i am a Canon Guy… I have had a good few since i started shooting, and well, i am happy with them. My main shooter is currently a 5Ds, and i have a &lt;a href=&quot;https://www.geekphotographer.com/5d-mkii-review-round-up/&quot;&gt;5D MK II&lt;/a&gt; as a backup and a plan of possibly getting a &lt;a href=&quot;https://www.geekphotographer.com/Canon5DMKIV/&quot;&gt;5D MK IV&lt;/a&gt; soon… Anyway, that being said, Nikon have announced their latest camera, the D850, and, well, after reading the sepecs, it sounds interesting…&lt;/p&gt;
 
 &lt;p&gt;So, first, specs:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;45.7 MP CMOS&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;ISO from 64 - 25,600, expandable to 32-108,400&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;4K Video at up to 30FPS, 1080p @ 120FPS.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;8K in-camera time lapse&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;7 FPS body only (9 with a battery grip)&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;153 point AF system&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;SD and XQD card slots&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Wifi and Bluetooth, no GPS&lt;/p&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;45.7 MP CMOS&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;ISO from 64 - 25,600, expandable to 32-108,400&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;4K Video at up to 30FPS, 1080p @ 120FPS.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;8K in-camera time lapse&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;7 FPS body only (9 with a battery grip)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;153 point AF system&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;SD and XQD card slots&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Wifi and Bluetooth, no GPS&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;So, not having much knowledge about previous Nikons, and thinking (based on the price of $3296.95 &lt;a href=&quot;https://www.bhphotovideo.com/c/product/1351688-REG/nikon_d850_dslr_camera_body.html&quot;&gt;BHPhoto pre order&lt;/a&gt;) it seems to be somewhere between a 5D MK4 and a 5Ds. MK4 is around the same price, but less MP, same FPS (without battery grip) and shoots 4K Video. the 5Ds, on the other hand, has it beat on MP, does not shoot 4K Video, and shoots slower FPS. But, I think the D850 is aiming at the MK4, not the 5Ds... So, based on that, it will be interesting to see the reviews.&lt;/p&gt;
+&lt;p&gt;So, not having much knowledge about previous Nikons, and thinking (based on the price of $3296.95 &lt;a href=&quot;https://www.bhphotovideo.com/c/product/1351688-REG/nikon_d850_dslr_camera_body.html&quot;&gt;BHPhoto pre order&lt;/a&gt;) it seems to be somewhere between a 5D MK4 and a 5Ds. MK4 is around the same price, but less MP, same FPS (without battery grip) and shoots 4K Video. the 5Ds, on the other hand, has it beat on MP, does not shoot 4K Video, and shoots slower FPS. But, I think the D850 is aiming at the MK4, not the 5Ds… So, based on that, it will be interesting to see the reviews.&lt;/p&gt;
 
 &lt;p&gt;So, with that, i will leave the usual links to other sites who know what they are talking about.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://petapixel.com/2017/08/23/nikon-d850-announced-first-45-7mp-bsi-sensor-4k-video-3300/&quot;&gt;PetaPixel: Nikon D850 Announced: First 45.7MP BSI Sensor, 4K Video, $3,300&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://fstoppers.com/gear/nikon-announces-d850-yes-its-amazing-camera-191972&quot;&gt;FStoppers: Nikon Announces the D850: Yes, It&amp;#39;s an Amazing Camera&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://fstoppers.com/gear/nikon-announces-d850-yes-its-amazing-camera-191972&quot;&gt;FStoppers: Nikon Announces the D850: Yes, It’s an Amazing Camera&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;And Nikon released the following video too:&lt;/p&gt;
 
 &lt;iframe width=&quot;100%&quot; height=&quot;auto&quot; src=&quot;https://www.youtube.com/embed/ErHKzMOVgYA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; async=&quot;&quot; preload=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
         
-          <description>&lt;p&gt;&lt;img src=&quot;https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/nikond850feat-1.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+          <description>&lt;p&gt;&lt;img src=&quot;https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/nikond850feat-1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
 </description>
         
-        <pubDate>Thu, 24 Aug 2017 01:00:00 +0100</pubDate>
+        <pubDate>Wed, 23 Aug 2017 19:00:00 -0500</pubDate>
         <link>https://www.geekphotographer.com/nikon-d850-announced/</link>
         <guid isPermaLink="true">https://www.geekphotographer.com/nikon-d850-announced/</guid>
         
@@ -175,55 +317,92 @@
       
       <item>
         <title>Canon 6D MK II and SL2 (EOS200d)</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/6dmkii.0.jpg&quot; alt=&quot;Canon 6D MK II&quot;&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/6dmkii.0.jpg&quot; alt=&quot;Canon 6D MK II&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Canon have just announced the new EOS 6d MK II. its an upgrade to the older 6D (which i had for a while and was very happy with). So, whats new?&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;26.2MP (up from 20.2)&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;DIGIC 7 image processor&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;ISO from 100 - 40,000 (up from 25600)&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;6.5 FPS shooting&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Single SD Card&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;WIFI, Bluetooth, NFC and GPS&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;shoots 1080p video at upto 60FPS (no 4k...) and can shoot HDR movies too...&lt;/p&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;26.2MP (up from 20.2)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;DIGIC 7 image processor&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;ISO from 100 - 40,000 (up from 25600)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;6.5 FPS shooting&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Single SD Card&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;WIFI, Bluetooth, NFC and GPS&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;shoots 1080p video at upto 60FPS (no 4k…) and can shoot HDR movies too…&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;not a bad upgrade... More info available at &lt;a href=&quot;https://petapixel.com/2017/06/28/canon-6d-mark-ii-unveiled-cheaper-full-frame-dslr-enthusiasts/&quot;&gt;PetaPixex&lt;/a&gt;, &lt;a href=&quot;https://fstoppers.com/gear/canon-announces-6d-mark-ii-and-sl2-cameras-181323&quot;&gt;FStoppers&lt;/a&gt; and &lt;a href=&quot;https://www.theverge.com/circuitbreaker/2017/6/29/15885744/canon-6d-mark-ii-rebel-sl2-specs-price-4k&quot;&gt;The Verge&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;not a bad upgrade… More info available at &lt;a href=&quot;https://petapixel.com/2017/06/28/canon-6d-mark-ii-unveiled-cheaper-full-frame-dslr-enthusiasts/&quot;&gt;PetaPixex&lt;/a&gt;, &lt;a href=&quot;https://fstoppers.com/gear/canon-announces-6d-mark-ii-and-sl2-cameras-181323&quot;&gt;FStoppers&lt;/a&gt; and &lt;a href=&quot;https://www.theverge.com/circuitbreaker/2017/6/29/15885744/canon-6d-mark-ii-rebel-sl2-specs-price-4k&quot;&gt;The Verge&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Pricing is $1,999 body only, $2599 with a 24-105mm 3.5-5.6 lesne and $3099 with the 24-105 F4 IS lense. Pre Order from B&amp;amp;H here:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://www.bhphotovideo.com/c/product/1346734-REG/canon_eos_6d_mark_ii.html&quot;&gt;Canon 6D Mark II (body only)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://www.bhphotovideo.com/c/product/1346736-REG/canon_eos_6d_mark_ii.html&quot;&gt;Canon 6D Mark II with 24-105mm f/3.5-5.6 lens&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://www.bhphotovideo.com/c/product/1346735-REG/canon_eos_6d_mark_ii.html&quot;&gt;Canon 6D Mark II with 24-105mm f/4L IS II lens&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.bhphotovideo.com/c/product/1346734-REG/canon_eos_6d_mark_ii.html&quot;&gt;Canon 6D Mark II (body only)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.bhphotovideo.com/c/product/1346736-REG/canon_eos_6d_mark_ii.html&quot;&gt;Canon 6D Mark II with 24-105mm f/3.5-5.6 lens&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.bhphotovideo.com/c/product/1346735-REG/canon_eos_6d_mark_ii.html&quot;&gt;Canon 6D Mark II with 24-105mm f/4L IS II lens&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.geekphotographer.com/wp-content/uploads/2017/06/29/sl2.jpg&quot; alt=&quot;Canon EOS SL2 or 200D&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.geekphotographer.com/wp-content/uploads/2017/06/29/sl2.jpg&quot; alt=&quot;Canon EOS SL2 or 200D&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Canon also announced the SL2, or EOS 200D. seems to be a fairly decient, cheap little camera.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;24MP APC-S&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;ISO 100 - 25600&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;6FPS shooting&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;SD Card&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;1080P video @ 60 FPS&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Wifi, Bleutooth and NFC&lt;/p&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;24MP APC-S&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;ISO 100 - 25600&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;6FPS shooting&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;SD Card&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;1080P video @ 60 FPS&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Wifi, Bleutooth and NFC&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Pricing is $549 body only or $699 with a 18-55mm lense. Pre Order at B&amp;amp;H here:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://www.bhphotovideo.com/c/product/1346763-REG/canon_eos_rebel_sl2_dslr.html&quot;&gt;Canon SL2 (body only)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://www.bhphotovideo.com/c/product/1346737-REG/canon_eos_rebel_sl2_dslr.html&quot;&gt;Canon SL2 with 18-55mm lens&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.bhphotovideo.com/c/product/1346763-REG/canon_eos_rebel_sl2_dslr.html&quot;&gt;Canon SL2 (body only)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.bhphotovideo.com/c/product/1346737-REG/canon_eos_rebel_sl2_dslr.html&quot;&gt;Canon SL2 with 18-55mm lens&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 </description>
         
-          <description>&lt;p&gt;&lt;img src=&quot;https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/6dmkii.0.jpg&quot; alt=&quot;Canon 6D MK II&quot;&gt;&lt;/p&gt;
+          <description>&lt;p&gt;&lt;img src=&quot;https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/6dmkii.0.jpg&quot; alt=&quot;Canon 6D MK II&quot; /&gt;&lt;/p&gt;
+
 </description>
         
-        <pubDate>Thu, 29 Jun 2017 01:00:00 +0100</pubDate>
+        <pubDate>Wed, 28 Jun 2017 19:00:00 -0500</pubDate>
         <link>https://www.geekphotographer.com/canon-annouce-6dmkii-sl2/</link>
         <guid isPermaLink="true">https://www.geekphotographer.com/canon-annouce-6dmkii-sl2/</guid>
         
@@ -238,37 +417,39 @@
       
       <item>
         <title>Sony a9 - 20 FPS shooter!</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/rsz_sony-a9.jpg&quot; alt=&quot;Sony Alpha A9&quot;&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/rsz_sony-a9.jpg&quot; alt=&quot;Sony Alpha A9&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Sony have just announced their new mirrorless flagship: the Alpha A9, and man, this is impressive!&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;24.2-megapixel full frame, using a new sensor&lt;/li&gt;
-&lt;li&gt;shoots a total of 241 frames at 20 fps&lt;/li&gt;
-&lt;li&gt;694 point focal plane phase detection auto focus that can do 60 AF/AE tracking calculations per second, which sounds good... (dont ask... i have no idea either)&lt;/li&gt;
-&lt;li&gt;ISO from 100 - 51,200, expandable to 204,800.&lt;/li&gt;
-&lt;li&gt;QVGA OLED Viewfinder&lt;/li&gt;
-&lt;li&gt;5 Axis image stablization&lt;/li&gt;
-&lt;li&gt;4k Video (actually shoots 6k, but oversamples... again, not sure what that all means...)&lt;/li&gt;
-&lt;li&gt;shoots 1080p @ 120fps with full autofocus tracking too...&lt;/li&gt;
+  &lt;li&gt;24.2-megapixel full frame, using a new sensor&lt;/li&gt;
+  &lt;li&gt;shoots a total of 241 frames at 20 fps&lt;/li&gt;
+  &lt;li&gt;694 point focal plane phase detection auto focus that can do 60 AF/AE tracking calculations per second, which sounds good… (dont ask… i have no idea either)&lt;/li&gt;
+  &lt;li&gt;ISO from 100 - 51,200, expandable to 204,800.&lt;/li&gt;
+  &lt;li&gt;QVGA OLED Viewfinder&lt;/li&gt;
+  &lt;li&gt;5 Axis image stablization&lt;/li&gt;
+  &lt;li&gt;4k Video (actually shoots 6k, but oversamples… again, not sure what that all means…)&lt;/li&gt;
+  &lt;li&gt;shoots 1080p @ 120fps with full autofocus tracking too…&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Price? Well, if you have to ask, as they say... ships May 25 in the US @ $4,500 and June in Europe for EUR5,300. More info here:&lt;/p&gt;
+&lt;p&gt;Price? Well, if you have to ask, as they say… ships May 25 in the US @ $4,500 and June in Europe for EUR5,300. More info here:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.engadget.com/2017/04/19/sony-s-a9-is-its-new-monster-full-frame-flagship-camera/&quot;&gt;Engadget&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.dpreview.com/news/1308959313/sony-announces-a9-24mp-20fps-high-end-full-frame-sports-camera&quot;&gt;DPReview&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://petapixel.com/2017/04/19/sony-unveils-blazing-fast-a9-24mp-sports-camera-shoots-20fps/&quot;&gt;Petapixel&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://presscentre.sony.eu/pressreleases/sonys-new-a9-camera-revolutionises-the-professional-imaging-market-1923902&quot;&gt;Sony Press Release&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.engadget.com/2017/04/19/sony-s-a9-is-its-new-monster-full-frame-flagship-camera/&quot;&gt;Engadget&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dpreview.com/news/1308959313/sony-announces-a9-24mp-20fps-high-end-full-frame-sports-camera&quot;&gt;DPReview&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://petapixel.com/2017/04/19/sony-unveils-blazing-fast-a9-24mp-sports-camera-shoots-20fps/&quot;&gt;Petapixel&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://presscentre.sony.eu/pressreleases/sonys-new-a9-camera-revolutionises-the-professional-imaging-market-1923902&quot;&gt;Sony Press Release&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;[Update] Forgot the links.&lt;/p&gt;
+
 </description>
         
-          <description>&lt;p&gt;&lt;img src=&quot;https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/rsz_sony-a9.jpg&quot; alt=&quot;Sony Alpha A9&quot;&gt;&lt;/p&gt;
+          <description>&lt;p&gt;&lt;img src=&quot;https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/rsz_sony-a9.jpg&quot; alt=&quot;Sony Alpha A9&quot; /&gt;&lt;/p&gt;
+
 </description>
         
-        <pubDate>Wed, 19 Apr 2017 00:00:00 +0100</pubDate>
+        <pubDate>Tue, 18 Apr 2017 19:00:00 -0500</pubDate>
         <link>https://www.geekphotographer.com/sony-a9/</link>
         <guid isPermaLink="true">https://www.geekphotographer.com/sony-a9/</guid>
         
@@ -283,197 +464,50 @@
       
       <item>
         <title>Canon EOS 6M, T7i and 77D announced</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/eos-6m.jpg&quot; alt=&quot;Canon 6M&quot;&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/eos-6m.jpg&quot; alt=&quot;Canon 6M&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Canon have announced 3 new cameras today. First, the EOS 6M, a small, mirrorless camera, which looks, well, interesting... Its been a while since i had a Mirrorless camera (had a Sony one a few years back... cant even remember the name of it!) and for me, i have no use: I either shoot on my 5Ds or iPhone... Anyway, someone out there will find the specs interesting:&lt;/p&gt;
+&lt;p&gt;Canon have announced 3 new cameras today. First, the EOS 6M, a small, mirrorless camera, which looks, well, interesting… Its been a while since i had a Mirrorless camera (had a Sony one a few years back… cant even remember the name of it!) and for me, i have no use: I either shoot on my 5Ds or iPhone… Anyway, someone out there will find the specs interesting:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;24.2-megapixel APS-C CMOS sensor&lt;/li&gt;
-&lt;li&gt;Digic 7 processor &lt;/li&gt;
-&lt;li&gt;100-25,600 ISO&lt;/li&gt;
-&lt;li&gt;Bluetooth&lt;/li&gt;
-&lt;li&gt;NFC&lt;/li&gt;
-&lt;li&gt;WiFi &lt;/li&gt;
-&lt;li&gt;3 inch tilting LCD&lt;/li&gt;
-&lt;li&gt;Optional EVF (electronic View finder...)&lt;/li&gt;
+  &lt;li&gt;24.2-megapixel APS-C CMOS sensor&lt;/li&gt;
+  &lt;li&gt;Digic 7 processor&lt;/li&gt;
+  &lt;li&gt;100-25,600 ISO&lt;/li&gt;
+  &lt;li&gt;Bluetooth&lt;/li&gt;
+  &lt;li&gt;NFC&lt;/li&gt;
+  &lt;li&gt;WiFi&lt;/li&gt;
+  &lt;li&gt;3 inch tilting LCD&lt;/li&gt;
+  &lt;li&gt;Optional EVF (electronic View finder…)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Shipps April, and will set you back $780 body only or $900 with a lense. more at &lt;a href=&quot;https://www.engadget.com/2017/02/14/canon-eos-m6/&quot;&gt;Engadget&lt;/a&gt; and &lt;a href=&quot;https://www.dpreview.com/news/2937046154/canon-debuts-eos-m6-mirrorless-with-optional-evf&quot;&gt;DPReview&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/eos-77d-t7i.jpg&quot; alt=&quot;Canon 77D and T7i&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/eos-77d-t7i.jpg&quot; alt=&quot;Canon 77D and T7i&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Canon also announced 2 &amp;quot;full&amp;quot; (not full frame, but more fuller) DSLRs, the 77D and the T7i (AKA the EOS 800D). specs are as follows:&lt;/p&gt;
+&lt;p&gt;Canon also announced 2 “full” (not full frame, but more fuller) DSLRs, the 77D and the T7i (AKA the EOS 800D). specs are as follows:&lt;/p&gt;
 
 &lt;p&gt;both are speced as follows:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;24.2mp APS-C CMOS with Digic 7&lt;/li&gt;
-&lt;li&gt;Dual Pixel AF&lt;/li&gt;
-&lt;li&gt;6PFS shooting&lt;/li&gt;
-&lt;li&gt;ISO 25600&lt;/li&gt;
-&lt;li&gt;45 point auto focus&lt;/li&gt;
-&lt;li&gt;Wifi, Bluetooth and NFC&lt;/li&gt;
-&lt;li&gt;Video @ 60PFS 1080P&lt;/li&gt;
+  &lt;li&gt;24.2mp APS-C CMOS with Digic 7&lt;/li&gt;
+  &lt;li&gt;Dual Pixel AF&lt;/li&gt;
+  &lt;li&gt;6PFS shooting&lt;/li&gt;
+  &lt;li&gt;ISO 25600&lt;/li&gt;
+  &lt;li&gt;45 point auto focus&lt;/li&gt;
+  &lt;li&gt;Wifi, Bluetooth and NFC&lt;/li&gt;
+  &lt;li&gt;Video @ 60PFS 1080P&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Both arrive April, and the 77D will set you back $900 and the T7i/800D will set you back $750. &lt;/p&gt;
+&lt;p&gt;Both arrive April, and the 77D will set you back $900 and the T7i/800D will set you back $750.&lt;/p&gt;
+
 </description>
         
-          <description>&lt;p&gt;&lt;img src=&quot;https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/eos-6m.jpg&quot; alt=&quot;Canon 6M&quot;&gt;&lt;/p&gt;
+          <description>&lt;p&gt;&lt;img src=&quot;https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/eos-6m.jpg&quot; alt=&quot;Canon 6M&quot; /&gt;&lt;/p&gt;
+
 </description>
         
-        <pubDate>Wed, 15 Feb 2017 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 14 Feb 2017 18:00:00 -0600</pubDate>
         <link>https://www.geekphotographer.com/canon-eos6m-77d-t7i/</link>
         <guid isPermaLink="true">https://www.geekphotographer.com/canon-eos6m-77d-t7i/</guid>
-        
-        
-        <category>Camera</category>
-        
-        <category>Hardware</category>
-        
-      </item>
-      
-    
-      
-      <item>
-        <title>Canon G9 X Mark II</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/PowerShot-G9-X-Mark-II-Black_1_xl.jpg&quot; alt=&quot;Canon G9 X Mark II&quot; title=&quot;Canon G9 X MK II&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Canon today announced a new Premium point and shoot camera, the &lt;a href=&quot;https://shop.usa.canon.com/shop/en/catalog/powershot-g9-x-mark-ii-black&quot;&gt;PowerShot G9 X Mark II&lt;/a&gt;. it has a 1 inch 20.1MP CMOS with Digic 7 processor, 28-84mm (3x) lens, shoots at 8.2FPS and has Wifi and NFC built in. Should be here in Feburary and will cost about $530. &lt;a href=&quot;https://www.engadget.com/2017/01/04/canon-powershot-g9-x-mark-ii-vixia-hf-r/&quot;&gt;Engadget&lt;/a&gt; has some more info. &lt;/p&gt;
-</description>
-        
-          <description>&lt;p&gt;&lt;img src=&quot;https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/PowerShot-G9-X-Mark-II-Black_1_xl.jpg&quot; alt=&quot;Canon G9 X Mark II&quot; title=&quot;Canon G9 X MK II&quot;&gt;&lt;/p&gt;
-</description>
-        
-        <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
-        <link>https://www.geekphotographer.com/canon-g9x-markii/</link>
-        <guid isPermaLink="true">https://www.geekphotographer.com/canon-g9x-markii/</guid>
-        
-        
-        <category>Camera</category>
-        
-        <category>Hardware</category>
-        
-      </item>
-      
-    
-      
-      <item>
-        <title>Canon also announced new lenses and a Wifi Card</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/20160825-24105mm.jpg&quot; alt=&quot;Canon 24-105 F4 MK II&quot; title=&quot;Canon 24-105 F4 MK II&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;So, not only did Canon &lt;a href=&quot;http://www.geekphotographer.com/Canon5DMKIV/&quot;&gt;release the 5D MK IV&lt;/a&gt; but they also announced 2 new lesnes and a SD based Wfii Adapter. &lt;/p&gt;
-
-&lt;p&gt;First, the lenses. One above is a Canon 24-105 F4 ii, an update to one of the lenses i have myself. It now features 4-stops of optical image stabilization, up from 3, and also &amp;quot;ghosting and flare reduction with air sphere coating&amp;quot;, whatever that means... available October for $1100 (&lt;a href=&quot;https://www.bhphotovideo.com/c/product/1274709-REG/canon_ef_24_105mm_f_4l_is.html&quot;&gt;BH Link&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/20160825-1635mm.jpg&quot; alt=&quot;Canon EF 16-35mm f/2.8L III USM&quot; title=&quot;Canon EF 16-35mm f/2.8L III USM&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;next is the Canon EF 16-35mm f/2.8L III USM. It now features a large diameter GMO dual-surface aspherical lens, and some performance tweaks. also available October for $2200 (&lt;a href=&quot;https://www.bhphotovideo.com/c/product/1274708-REG/canon_ef_16_35mm_f_2_8l_iii.html&quot;&gt;BH Link&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/20160825-we1.jpg&quot; alt=&quot;Canon W-E1&quot; title=&quot;Canon W-E1&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Finally, the W-E1. Canon&amp;#39;s answer to &lt;a href=&quot;http://www.eye.fi&quot;&gt;EyeFi&lt;/a&gt; but without the memory. It is basically a Wifi Adapter that sits in your SD card slot and trasnfers all data over wifi. Unlike the EyeFi, there is no storage, so you need to use an CF card for storage. It is designed to work with the &lt;a href=&quot;http://www.geekphotographer.com/canon-announce-7d-mk-ii/&quot;&gt;7D MKII&lt;/a&gt;, the &lt;a href=&quot;http://www.geekphotographer.com/canon-announce-5ds-and-5ds-r-with-50mp-sensors-and-some-other-stuff/&quot;&gt;5DS and the 5DS R&lt;/a&gt;. Price is about $50 (i know what i want for Christmas!) and will be available in September. (&lt;a href=&quot;https://www.bhphotovideo.com/c/product/1274710-REG/canon_w_e1_wi_fi_adapter.html&quot;&gt;BH Link&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;More details of all below:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://petapixel.com/2016/08/25/canon-reveals-two-new-l-lenses-interesting-sd-card-wifi-adapter/&quot;&gt;Petapixel&lt;/a&gt;&lt;/p&gt;
-</description>
-        
-          <description>&lt;p&gt;&lt;img src=&quot;https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/20160825-24105mm.jpg&quot; alt=&quot;Canon 24-105 F4 MK II&quot; title=&quot;Canon 24-105 F4 MK II&quot;&gt;&lt;/p&gt;
-</description>
-        
-        <pubDate>Thu, 25 Aug 2016 00:00:00 +0100</pubDate>
-        <link>https://www.geekphotographer.com/newcanonlens-wificard/</link>
-        <guid isPermaLink="true">https://www.geekphotographer.com/newcanonlens-wificard/</guid>
-        
-        
-        <category>Camera</category>
-        
-        <category>Hardware</category>
-        
-      </item>
-      
-    
-      
-      <item>
-        <title>Canon 5D MKiv announced</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/20160825-5dmk4.jpg&quot; alt=&quot;mainimage&quot; title=&quot;Canon 5D MKIV&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Canon have just announced the 5D MK IV.  it has 30.4-megapixel, full-frame CMOS sensor and Digic 6+ processor, includes Wifi, GPS and NFC (all welcome extras!) and ISO range of 100-32,000 with  61-point autofocus. It also shoots 4k video (23.98, 24, 25 and 30 fps) and has both CF and SD slots. Available body only in September for $3499 body only (&lt;a href=&quot;https://www.bhphotovideo.com/c/product/1274705-REG/canon_eos_5d_mark_iv.html&quot;&gt;BH Link&lt;/a&gt;), or $4399 with a EF24-70mm f/4L (&lt;a href=&quot;https://www.bhphotovideo.com/c/product/1274707-REG/canon_eos_5d_mark_iv.html&quot;&gt;BH Link&lt;/a&gt;) or $4,599 with a EF24-105mm f/4L IS II USM lens (&lt;a href=&quot;https://www.bhphotovideo.com/c/product/1274706-REG/canon_eos_5d_mark_iv.html&quot;&gt;BH Link&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;More details below:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.engadget.com/2016/08/25/canons-eos-5d-mark-iv-has-a-34-megapixel-sensor-and-4k-video/&quot;&gt;Engadget&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.dpreview.com/reviews/canon-eos-5d-mark-iv-first-impressions-review&quot;&gt;DP Review&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://petapixel.com/2016/08/25/canon-unveils-5d-mark-iv-30mp-sensor-dual-pixel-raw/&quot;&gt;Petapixel&lt;/a&gt;&lt;/p&gt;
-</description>
-        
-          <description>&lt;p&gt;&lt;img src=&quot;https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/20160825-5dmk4.jpg&quot; alt=&quot;mainimage&quot; title=&quot;Canon 5D MKIV&quot;&gt;&lt;/p&gt;
-</description>
-        
-        <pubDate>Thu, 25 Aug 2016 00:00:00 +0100</pubDate>
-        <link>https://www.geekphotographer.com/Canon5DMKIV/</link>
-        <guid isPermaLink="true">https://www.geekphotographer.com/Canon5DMKIV/</guid>
-        
-        
-        <category>Camera</category>
-        
-        <category>Hardware</category>
-        
-      </item>
-      
-    
-      
-      <item>
-        <title>New Canon Powershot cameras and 80D</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/20160218-eos80d.jpg&quot; alt=&quot;mainimage&quot; title=&quot;Canon 80D&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Today, Feburary 18 2016, Canon announced a few new cameras. First, the 80D (pictured above). Basic details:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;24.2MP APS-C CMOS with DIGIC 6 processor&lt;/li&gt;
-&lt;li&gt;ISO up to 1600 (with 25600 and 52000 on high)&lt;/li&gt;
-&lt;li&gt;Wifi and NFC with iOS and Android applications&lt;/li&gt;
-&lt;li&gt;1080P Video @ 60FPS&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Available in store at $1200 in April, body only. &lt;a href=&quot;http://www.engadget.com/2016/02/17/canon-eos-80d/&quot;&gt;Engadget have more details&lt;/a&gt;, as do &lt;a href=&quot;http://www.dpreview.com/news/7759831669/canon-eos-80d-updates-dual-pixel-af-bumps-resolution-with-24mp-sensor&quot;&gt;DPReview&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Next, 2 new Powershots. First, is the G7X MK II:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/20160218-psg7xmkii.jpg&quot; alt=&quot;mainimage&quot; title=&quot;Powershot G7X MKII&quot;&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;20MP 1 inch sensor, backed by a DIGIC 7 processor&lt;/li&gt;
-&lt;li&gt;8 FPS RAW shooting&lt;/li&gt;
-&lt;li&gt;Built in Wifi and NFC&lt;/li&gt;
-&lt;li&gt;1080P Video &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Available May for $699. More on &lt;a href=&quot;http://www.dpreview.com/news/3727476475/canon-powershot-g7-x-mark-ii-boasts-faster-performance-improves-ergonomics&quot;&gt;DP Review&lt;/a&gt; and &lt;a href=&quot;http://www.engadget.com/2016/02/17/canon-powershot-g7-x-mark-ii-sx720-hs&quot;&gt;Engadget&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Finally, the Powershot SX720:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/20160218-pssx720.jpg&quot; alt=&quot;mainimage&quot; title=&quot;Powershot SX720&quot;&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;35mm-equivalent of 24-960mm at F3.3-6.9&lt;/li&gt;
-&lt;li&gt;20.3MP DIGIC 6 processor&lt;/li&gt;
-&lt;li&gt;Wifi and NFC&lt;/li&gt;
-&lt;li&gt;1080P Video&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Available in March at $379. More details @ &lt;a href=&quot;http://www.dpreview.com/news/4034082826/canon-powershot-sx720-hs-boasts-new-40x-zoom-lens-with-a-compact-form-factor&quot;&gt;DP Review&lt;/a&gt; and &lt;a href=&quot;http://www.engadget.com/2016/02/17/canon-powershot-g7-x-mark-ii-sx720-hs&quot;&gt;Engadget&lt;/a&gt;&lt;/p&gt;
-</description>
-        
-          <description>&lt;p&gt;&lt;img src=&quot;https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/20160218-eos80d.jpg&quot; alt=&quot;mainimage&quot; title=&quot;Canon 80D&quot;&gt;&lt;/p&gt;
-</description>
-        
-        <pubDate>Thu, 18 Feb 2016 00:00:00 +0000</pubDate>
-        <link>https://www.geekphotographer.com/NewCanonPowerShotAndEOS80d/</link>
-        <guid isPermaLink="true">https://www.geekphotographer.com/NewCanonPowerShotAndEOS80d/</guid>
         
         
         <category>Camera</category>
